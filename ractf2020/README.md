@@ -23,7 +23,6 @@ All of these except for RAirways were map based flags where you had to click a p
 #### RARO App
 
 * [Entrypoint](entrypoint.md)
-
 * [Admin Attack](admin-attack.md)
 * [Baiting](baiting.md)
 * [Insert witty name](witty-name.md)
