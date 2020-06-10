@@ -1,4 +1,5 @@
-# **Really Awesome CTF 2020**
+# Really Awesome CTF 2020
+
 This was my first competetive CTF. I have written up the challanges I was able to solve.
 
 ### OSINT
@@ -14,15 +15,12 @@ All of these except for RAirways were map Bassed flags where you had to click a 
 ### Web
 
 #### Quaratine App
-
 * [Quarantine - Hidden information](quarantine-hidden.md)
 * [Quarantine](quarantine.md)
 * [Getting admin](getting-admin.md)
 * [Finding Server Information](finding-server-info.md)
 
 #### RARO App
-
-* [Entrypoint](entrypoint.md)
 * [Admin Attack](admin-attack.md)
 * [Baiting](baiting.md)
 * [Insert witty name](witty-name.md)
@@ -32,5 +30,7 @@ All of these except for RAirways were map Bassed flags where you had to click a 
 + [Peculiar Packet Capture](packet-capture.md)
 
 ### Misc
-
 * [Spentalkux](spentalkux.md)
+
+### Forensics
+* [Peculiar Packet Capture](packet-capture.md)
