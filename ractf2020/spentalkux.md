@@ -1,11 +1,11 @@
-#*Spentalkux*
+# *Spentalkux*
 
 ### 300 Points
 
-####*Problem*
+#### *Problem*
 Spentalkux 🐍📦
 
-####*Solution*
+#### *Solution*
 Not a whole lot to go off of on this initially, but that looks like a python and a package. A quick internet search shows me that there is indeed a projuct called Spentalkux on pypi.org
 
 Going to that page we download the latest version and look in the code. There we see a base64 string that is decoded and executed. When decoded it gives us the following

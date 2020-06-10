@@ -1,12 +1,12 @@
-#*Admin Attack*
+# **Admin Attack**
 
 ### 300 Points
 
-####*Problem*
+#### **Problem**
 
 Looks like we managed to get a list of users. That admin user looks particularly interesting, but we don't have their password. Try and attack the login form and see if you can get anything.
 
-####*Solution*
+#### **Solution**
 
 We saw in a previous challenge that the admin username is `jimmyTehAdmin` so we want to try and log in as him.
 
@@ -27,4 +27,4 @@ I next tried `' or 1=1;--` but that gets me logged in as a user named xxslayer42
 
 Lets try specifying a username in our query: `' or 1=1 and username = 'jimmyTehAdmin';--`
 
-and with that we get logged in and get our flag: * ractf{!!!4dm1n4buse!!!}*
+and with that we get logged in and get our flag: **ractf{!!!4dm1n4buse!!!}**
