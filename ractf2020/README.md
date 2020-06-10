@@ -34,6 +34,3 @@ All of these except for RAirways were map based flags where you had to click a p
 
 ### Misc
 * [Spentalkux](spentalkux.md)
-
-### Forensics
-* [Peculiar Packet Capture](packet-capture.md)
